@@ -43,7 +43,7 @@ function prompt_tgrrtt_setup {
     'rprompt' '%a%m%d%u %r %b%s%U%S%A%B'
 
   # Define prompts.  %2~ ❯
-  PROMPT='%2~ %(?.%F{white}.%F{red})❯%f '
+  PROMPT='🗿 %2~ %(?.%F{white}.%F{red})❯%f '
   RPROMPT='${git_info[rprompt]}'
 }
 
